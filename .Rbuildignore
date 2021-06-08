@@ -1,1 +1,3 @@
 ^\.github$
+^tripler\.Rproj$
+^\.Rproj\.user$
